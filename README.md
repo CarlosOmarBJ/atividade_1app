@@ -32,3 +32,4 @@ Este projeto é um aplicativo simples de **Lista de Tarefas** desenvolvido em **
    - Utiliza o `shared_preferences` para salvar e carregar a lista de tarefas em formato JSON.
    - Garante que as tarefas persistam após o fechamento e reabertura do aplicativo.
 
+Vídeo: https://www.youtube.com/watch?v=B74JxVd8GtU
